@@ -1,9 +1,13 @@
 # MastersProject
 Comparative Systems Biology analyses of Lactococcus lactis subsp. lactis strain LMG 19460
+
 Diogo de Lucena Antunes
+
 Mestrado em Microbiologia Aplicada
+
 This Dissertation was fully performed at the Institute for Bioengineering and
 Biosciences, at Instituto Superior Técnico (IST), Universidade de Lisboa (UL), under
+
 the direct supervision of Professor Leonilde Moreira, Ph. D.
 Professor Rogério Tenreiro, Ph. D., was the internal supervisor designated in the scope
 of the Master in Applied Microbiology of the Faculty of Sciences of the University of
